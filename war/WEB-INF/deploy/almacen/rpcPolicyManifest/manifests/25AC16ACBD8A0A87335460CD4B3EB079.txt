@@ -1,0 +1,2 @@
+serviceClass: com.cebem.client.BDService
+path: 9B8694AFDA674DD33FC12FEC4786DE57.gwt.rpc
